@@ -1,0 +1,5 @@
+BALANCE Stepanova
+DEPOSIT Stepanova 1000
+TRANSFER Stepanova Petrov 500
+INCOME 5
+BALANCE

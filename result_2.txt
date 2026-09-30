@@ -1,0 +1,18 @@
+BALANCE Stepanova
+    Stepanova 70205412
+>>>
+DEPOSIT Stepanova 1000
+    Stepanova 70206412
+>>>
+TRANSFER Stepanova Petrov 500
+    Stepanova 70205912
+    Petrov 500
+>>>
+INCOME 5
+    Petrov 525
+    Stepanova 73716207
+>>>
+BALANCE
+    Petrov 525
+    Stepanova 73716207
+>>>
